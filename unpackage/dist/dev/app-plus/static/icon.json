@@ -1,0 +1,388 @@
+{
+	"icon": [{
+		"name": "食品餐饮",
+		"value": "FoodCatering",
+		"path": "https://beyondmyself.top/i/2023/03/04/FoodCatering.png",
+		"type":"支出",
+		"subIcon": [{
+				"fistName":"食品餐饮",
+				"name": "中式餐食",
+				"value": "Chinese_style_food",
+				"path": "https://beyondmyself.top/i/2023/03/06/Chinese_style_food.png"
+			},
+			{
+				"fistName":"食品餐饮",
+				"name": "西式餐食",
+				"value": "Western_style_meal",
+				"path": "https://beyondmyself.top/i/2023/03/06/Western_style_meal.png"
+			},
+			{
+				"fistName":"食品餐饮",
+				"name": "日韩料理",
+				"value": "Japanese_and_Korean_cuisine",
+				"path": "https://beyondmyself.top/i/2023/03/06/Japanese_and_Korean_cuisine.png"
+			},
+			{
+				"fistName":"食品餐饮",
+				"name": "饮料烟酒",
+				"value": "Beverages_tobacco_and_alcohol",
+				"path": "https://beyondmyself.top/i/2023/03/06/Beverages_tobacco_and_alcohol.png"
+			},
+			{
+				"fistName":"食品餐饮",
+				"name": "水果零食",
+				"value": "Fruit_snack",
+				"path": "https://beyondmyself.top/i/2023/03/06/Fruit_snack.png"
+			},
+			{
+				"fistName":"食品餐饮",
+				"name": "柴米油盐",
+				"value": "Daily_necessities_rice_oil_and_salt",
+				"path": "https://beyondmyself.top/i/2023/03/06/Daily_necessities_rice_oil_and_salt.png"
+			},
+			{
+				"fistName":"食品餐饮",
+				"name": "生鲜食品",
+				"value": "Fresh_food",
+				"path": "https://beyondmyself.top/i/2023/03/06/Fresh_food.png"
+			}
+		]
+	}, {
+		"name": "购物消费",
+		"value": "Shopping",
+		"path": "https://beyondmyself.top/i/2023/03/04/Shopping.png",
+		"type":"支出",
+		"subIcon": [{
+				"fistName":"购物消费",
+				"name": "日用家居",
+				"value": "Daily_household",
+				"path": "https://beyondmyself.top/i/2023/03/06/Daily_household.png"
+			},
+			{
+				"fistName":"购物消费",
+				"name": "个护美妆",
+				"value": "Take_care_of_your_makeup",
+				"path": "https://beyondmyself.top/i/2023/03/06/Take_care_of_your_makeup.png"
+			},
+			{
+				"fistName":"购物消费",
+				"name": "数码电器",
+				"value": "Digital_electric_appliance",
+				"path": "https://beyondmyself.top/i/2023/03/06/Digital_electric_appliance.png"
+			},
+			{
+				"fistName":"购物消费",
+				"name": "虚拟充值",
+				"value": "Virtual_recharge",
+				"path": "https://beyondmyself.top/i/2023/03/06/Virtual_recharge.png"
+			},
+			{
+				"fistName":"购物消费",
+				"name": "服饰衣帽",
+				"value": "Clothes_and_hats",
+				"path": "https://beyondmyself.top/i/2023/03/06/Clothes_and_hats.png"
+			},
+			{
+				"fistName":"购物消费",
+				"name": "母婴玩具",
+				"value": "Maternal_and_infant_toys",
+				"path": "https://beyondmyself.top/i/2023/03/06/Maternal_and_infant_toys.png"
+			},
+			{
+				"fistName":"购物消费",
+				"name": "宠物用品",
+				"value": "Pet_supplies",
+				"path": "https://beyondmyself.top/i/2023/03/06/Pet_supplies.png"
+			},
+			{
+				"fistName":"购物消费",
+				"name": "办公文具",
+				"value": "Office_stationery",
+				"path": "https://beyondmyself.top/i/2023/03/06/Office_stationery.png"
+			}
+		]
+	}, {
+		"name": "出行交通",
+		"value": "TravelTraffic",
+		"path": "https://beyondmyself.top/i/2023/03/04/TravelTraffic.png",
+		"type":"支出",
+		"subIcon": [{
+				"fistName":"出行交通",
+				"name": "专车打的",
+				"value": "Private_taxi",
+				"path": "https://beyondmyself.top/i/2023/03/06/Private_taxi.png"
+			},
+			{
+			 "fistName":"出行交通",
+			 "name": "公共交通",
+				"value": "Public_transport",
+				"path": "https://beyondmyself.top/i/2023/03/06/Public_transport.png"
+			},
+			{
+				"fistName":"出行交通",
+				"name": "动车高铁",
+				"value": "Bullet_trains_and_high_speed_trains",
+				"path": "https://beyondmyself.top/i/2023/03/06/Bullet_trains_and_high_speed_trains.png"
+			},
+			{
+				"fistName":"出行交通",
+				"name": "飞机出行",
+				"value": "Air_travel",
+				"path": "https://beyondmyself.top/i/2023/03/06/Air_travel.png"
+			},
+			{
+				"fistName":"出行交通",
+				"name": "停车过路",
+			 "value": "Stop_and_pass",
+				"path": "https://beyondmyself.top/i/2023/03/06/Stop_and_pass.png"
+			},
+			{
+				"fistName":"出行交通",
+				"name": "车辆加油",
+				"value": "Vehicle_refueling",
+				"path": "https://beyondmyself.top/i/2023/03/06/Vehicle_refueling.png"
+			},
+			{
+				"fistName":"出行交通",
+				"name": "保养维修",
+				"value": "Maintenance_and_repair",
+				"path": "https://beyondmyself.top/i/2023/03/06/Maintenance_and_repair.png"
+			}
+		]
+	}, {
+		"name": "休闲娱乐",
+		"value": "entertainment",
+		"path": "https://beyondmyself.top/i/2023/03/04/entertainment.png",
+		"type":"支出",
+		"subIcon": [{
+				"fistName":"休闲娱乐",
+				"name": "旅游度假",
+				"value": "Travel_and_vacation",
+				"path": "https://beyondmyself.top/i/2023/03/06/Travel_and_vacation.png"
+			},
+			{
+				"fistName":"休闲娱乐",
+				"name": "电影演出",
+				"value": "Film_performance",
+				"path": "https://beyondmyself.top/i/2023/03/06/Film_performance.png"
+			},
+			{
+				"fistName":"休闲娱乐",
+				"name": "运动健身",
+				"value": "Exercise_and_fitness",
+				"path": "https://beyondmyself.top/i/2023/03/06/Exercise_and_fitness.png"
+			},
+			{
+				"fistName":"休闲娱乐",
+				"name": "美容美发",
+				"value": "Beauty_salon",
+				"path": "https://beyondmyself.top/i/2023/03/06/Beauty_salon.png"
+			},
+			{
+				"fistName":"休闲娱乐",
+				"name": "洗浴按摩",
+				"value": "Bath_massage",
+				"path": "https://beyondmyself.top/i/2023/03/06/Bath_massage.png"
+			},
+			{
+				"fistName":"休闲娱乐",
+				"name": "聚会玩乐",
+				"value": "Party_and_have_fun",
+				"path": "https://beyondmyself.top/i/2023/03/06/Party_and_have_fun.png"
+			}
+		]
+	}, {
+		"name": "服务缴费",
+		"value": "ServicePayment",
+		"path": "https://beyondmyself.top/i/2023/03/04/ServicePayment.png",
+		"type":"支出",
+		"subIcon": [{
+			
+				"fistName":"服务缴费",
+				"name": "话费宽带",
+				"value": "Telephone_broadband",
+				"path": "https://beyondmyself.top/i/2023/03/06/Telephone_broadband.png"
+			},
+			{
+				"fistName":"服务缴费",
+				"name": "水电燃气",
+				"value": "Water_electricity_and_gas",
+				"path": "https://beyondmyself.top/i/2023/03/06/Water_electricity_and_gas.png"
+			},
+			{
+				"fistName":"服务缴费",
+				"name": "房租还贷",
+				"value": "Rent_repayment",
+				"path": "https://beyondmyself.top/i/2023/03/06/Rent_repayment.png"
+			},
+			{
+				"fistName":"服务缴费",
+				"name": "物业车位",
+				"value": "Property_parking_space",
+				"path": "https://beyondmyself.top/i/2023/03/06/Property_parking_space.png"
+			},
+			{
+				"fistName":"服务缴费",
+				"name": "家政清洁",
+				"value": "Housekeeping_cleaning",
+				"path": "https://beyondmyself.top/i/2023/03/06/Housekeeping_cleaning.png"
+			},
+			{
+			 "fistName":"服务缴费",
+			 "name": "快递跑腿",
+				"value": "Courier_errand",
+				"path": "https://beyondmyself.top/i/2023/03/06/Courier_errand.png"
+			},
+			{
+				"fistName":"服务缴费",
+				"name": "各类税费",
+				"value": "Various_taxes_and_fees",
+				"path": "https://beyondmyself.top/i/2023/03/06/Various_taxes_and_fees.png"
+			}
+		]
+	}, {
+		"name": "学习教育",
+		"value": "study",
+		"path": "https://beyondmyself.top/i/2023/03/04/study.png",
+		"type":"支出",
+		"subIcon": [{
+				"fistName":"学习教育",
+				"name": "学费支出",
+				"value": "TuitionExpenses",
+				"path": "https://beyondmyself.top/i/2023/03/06/TuitionExpenses.png"
+			},
+			{
+				"fistName":"学习教育",
+				"name": "书报杂志",
+				"value": "magazine",
+				"path": "https://beyondmyself.top/i/2023/03/06/magazine.png"
+			},
+			{
+				"fistName":"学习教育",
+				"name": "培训考试",
+				"value": "TrainingExamination",
+				"path": "https://beyondmyself.top/i/2023/03/06/TrainingExamination.png"
+			}
+		]
+	}, {
+		"name": "人情往来",
+		"value": "HumanRelations",
+		"path": "https://beyondmyself.top/i/2023/03/04/HumanRelations.png",
+		"type":"支出",
+		"subIcon": [{
+				"fistName":"人情往来",
+				"name": "礼物红包",
+				"value": "GiftRedEnvelope",
+				"path": "https://beyondmyself.top/i/2023/03/06/GiftRedEnvelope.png"
+			},
+			{
+				"fistName":"人情往来",
+				"name": "请客做东",
+				"value": "standTreat",
+				"path": "https://beyondmyself.top/i/2023/03/06/standTreat.png"
+			}
+		]
+	}, {
+		"name": "健康医疗",
+		"value": "healthCare",
+		"path": "https://beyondmyself.top/i/2023/03/04/healthCare.png",
+		"type":"支出",
+		"subIcon": [{
+				"fistName":"健康医疗",
+				"name": "医院诊疗",
+				"value": "HospitalTreatment",
+				"path": "https://beyondmyself.top/i/2023/03/06/HospitalTreatment.png"
+			},
+			{
+				"fistName":"健康医疗",
+				"name": "药品制剂",
+				"value": "PharmaceuticalPreparations",
+				"path": "https://beyondmyself.top/i/2023/03/06/PharmaceuticalPreparations.png"
+			},
+			{
+				"fistName":"健康医疗",
+				"name": "保健器具",
+				"value": "HealthAppliances",
+				"path": "https://beyondmyself.top/i/2023/03/06/HealthAppliances.png"
+			}
+		]
+	}, {
+		"name": "金融理财",
+		"value": "financialPlanning",
+		"path": "https://beyondmyself.top/i/2023/03/04/financialPlanning.png",
+		"type":"支出",
+		"subIcon": [{
+				"fistName":"金融理财",
+				"name": "理财投资",
+				"value": "FinancialInvestment",
+				"path": "https://beyondmyself.top/i/2023/03/06/FinancialInvestment.png"
+			},
+			{
+				"fistName":"金融理财",
+				"name": "金融保险",
+				"value": "FinancialInsurance",
+				"path": "https://beyondmyself.top/i/2023/03/06/FinancialInsurance.png"
+			}
+		]
+	}, {
+		"name": "工作兼职",
+		"value": "work",
+		"path": "https://beyondmyself.top/i/2023/03/04/work.png",
+		"type":"收入",
+		"subIcon": [{
+				"fistName":"工作兼职",
+				"name": "工资奖金",
+				"value": "SalaryBonus",
+				"path": "https://beyondmyself.top/i/2023/03/06/SalaryBonus.png"
+			},
+			{
+				"fistName":"工作兼职",
+				"name": "兼职外快",
+				"value": "Part_timeExtraFast",
+				"path": "https://beyondmyself.top/i/2023/03/06/Part_timeExtraFast.png"
+			}
+		]
+	}, {
+		"name": "金融投资",
+		"value": "financialInvestment",
+		"path": "https://beyondmyself.top/i/2023/03/04/financialInvestment.png",
+		"type":"收入",
+		"subIcon": [{
+				"fistName":"金融投资",
+				"name": "理财收益",
+				"value": "WealthManagementIncome",
+				"path": "https://beyondmyself.top/i/2023/03/06/WealthManagementIncome.png"
+			},
+			{
+				"fistName":"金融投资",
+				"name": "保险理赔",
+				"value": "InsuranceClaimSettlement",
+				"path": "https://beyondmyself.top/i/2023/03/06/InsuranceClaimSettlement.png"
+			}
+		]
+	}, {
+		"name": "其他收入",
+		"value": "else",
+		"path": "https://beyondmyself.top/i/2023/03/04/else.png",
+		"type":"收入",
+		"subIcon": [{
+				"fistName":"其他收入",
+				"name": "二手闲置",
+				"value": "UsedIdle",
+				"path": "https://beyondmyself.top/i/2023/03/06/UsedIdle.png"
+			},
+			{
+				"fistName":"其他收入",
+				"name": "报销补贴",
+				"value": "ReimbursementAllowance",
+				"path": "https://beyondmyself.top/i/2023/03/06/ReimbursementAllowance.png"
+			},
+			{
+				"fistName":"其他收入",
+				"name": "红包礼金",
+				"value": "RedEnvelopeGift",
+				"path": "https://beyondmyself.top/i/2023/03/06/RedEnvelopeGift.png"
+			}
+		]
+	}]
+}

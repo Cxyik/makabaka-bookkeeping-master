@@ -1,0 +1,264 @@
+
+page{
+		background-color: rgb(244,244,244);
+}
+.show_it{
+		display: block !important;
+}
+.clear{
+	clear: both;}
+.content{
+		width: 100%;
+		height: 1000px;
+		background-color: rgb(244, 244, 244);
+		font-size: 16px;
+}
+	/* first */
+.my_help{
+		width: 100%;
+		height: 3rem;
+		position: fixed;
+		background-color: rgb(244,244,244);
+		top:0;
+		z-index: 10;
+}
+.total_title{
+	    position: fixed;
+	    width: 100%;
+	    height: 4rem;
+	    padding-left: 10px;
+	    top: 3rem;
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
+	    z-index: 10;
+	    background-color: rgb(244,244,244);
+}
+.back{
+		display: flex;
+		align-items: center;
+		color: dimgray;
+		flex: 1;
+}
+.back image{
+		width: 25px;
+		height: 25px;
+}
+.ach_title{
+		flex: 1;
+		font-weight: 600;
+		text-align: center;
+		padding-right: 10px;
+}
+.wei{
+		flex: 1;
+		text-align: center;
+}
+	/* second */
+.second_container{
+		width: 90%;
+		padding-left: 20px;
+}
+.second_count{
+		float: left;
+		width: 80px;
+		height: 30px;
+		background-color: white;
+		border-radius: 13px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 14px;
+		position: relative;
+		    top: 7rem;
+}
+.second_count image{
+		width: 21px;
+		height: 21px;
+}
+.second_count view{
+		height: 100%;
+		line-height: 30px;
+}
+.second_count image:nth-child(3){
+		width: 15px;
+}
+.second_shop{
+		float: right;
+		width: 130px;
+		height: 30px;
+		background-color: white;
+		border-radius: 13px;
+		font-size: 12px;
+		display: flex;
+		align-items: center;
+		position: relative;
+		    top: 7rem;
+}
+.view_shop{
+		height: 100%;
+		line-height: 30px;
+		padding-left: 5px;
+}
+.second_shop image{
+		width: 10px;
+		height: 10px;
+}
+	/* third 打卡 */
+.playcard{
+		width: 90%;
+		height: 240px;
+		background-color: white;
+		margin-left: 20px;
+		margin-top: 8rem;
+		border-radius: 10px;
+}
+.tx{
+		width: 90%;
+		padding-left: 20px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding-top: 30px;
+}
+.tx_exit{
+		flex: 1;
+		font-size: 12px;
+		border: 1px solid #ccc;
+		text-align: center;
+		height: 25px;
+		line-height: 25px;
+		border-radius: 10px;
+}
+.tx_play{
+		flex: 3;
+		margin-left: 0.4rem;
+}
+.tx_image{
+		flex: 1;
+}
+.tx_img image{
+		width: 50px;
+		height: 50px;
+		border-radius: 50%;
+}
+.play_bottom{
+		display: flex;
+		margin-top: 5px;
+		font-size: 10px;
+		align-items: center;
+}
+.play_bottom view{
+		height: 100%;
+		line-height: 20px;
+}
+.play_bottom image{
+		width: 12px;
+		height: 12px;
+}
+.img_border{
+		display: flex;
+		margin-top: 30px;
+		/* padding: 0 10px 0; */
+}
+.kuang{
+		flex: 1;
+		margin: 0 12px 0;
+		/* width: 17%; */
+
+		border-radius: 10px;
+		height: 60px;
+		border: 1px solid #ccc;
+		text-align: center;
+		line-height: 60px;
+}
+.kuang image{
+		width: 20px;
+		height: 20px;
+}
+.text_border{
+		display: flex;
+		align-items: center;
+		margin-top: 10px;
+		font-size: 12px;
+}
+.txt_border{
+		flex: 1;
+		text-align: center;
+}
+	/* 挑战 */
+.hard{
+		position: absolute;
+		margin-top: 30px;
+		left: 50%;
+		width: 90%;
+		height: 110px;
+		background-color: white;
+		-webkit-transform: translateX(-50%);
+		        transform: translateX(-50%);
+		border-radius: 13px;
+}
+.tz_img image{
+		border-radius: 20%;
+}
+	/* task */
+.task{
+		position: absolute;
+		margin-top: 170px;
+		left: 50%;
+		width: 90%;
+		height: 350px;
+		background-color: white;
+		-webkit-transform: translateX(-50%);
+		        transform: translateX(-50%);
+		border-radius: 13px;
+}
+.task_title{
+		width: 100%;
+		margin-top: 15px;
+		text-align: center;
+}
+.items{
+		width: 90%;
+		margin-top: 10px;
+		background-color: coral;
+		padding-left: 20px;
+}
+.it_lef{
+		float: left;
+}
+.it_right{
+		float: right;
+		border: 1px solid #bbb;
+		width: 60px;
+		height: 25px;
+		line-height: 25px;
+		text-align: center;
+		border-radius: 13px;
+		font-size: 12px;
+}
+.it_detail{
+		display: flex;
+		align-items: center;
+}
+.it_detail image{
+		width: 15px;
+		height: 15px;
+}
+.it_detail text{
+		font-size: 12px;
+		margin-left: 10px;
+}
+.marign_to1{
+		margin-top: 65px;
+}
+.margin_to2{
+		margin-top: 120px;
+}
+.margin_to3{
+		margin-top: 175px;
+}
+.margin_to4{
+		margin-top: 230px;
+}
+

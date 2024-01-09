@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39" height="39" viewBox="0 0 39 39">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.157" y1="0.185" x2="0.806" y2="0.86" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e8ad68"/>
+      <stop offset="1" stop-color="#f1c46f"/>
+    </linearGradient>
+  </defs>
+  <g id="组_74" data-name="组 74" transform="translate(-315 -665)">
+    <g id="组_71" data-name="组 71" transform="translate(299.268 -55.732)">
+      <circle id="椭圆_18" data-name="椭圆 18" cx="19.5" cy="19.5" r="19.5" transform="translate(15.732 720.732)" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="语音" transform="translate(324 689)" fill="#f4f4f4" font-size="11" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI"><tspan x="0" y="0">语</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">音</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<page-meta root-font-size="{{$root.m0}}"></page-meta><view><view style="height:var(--status-bar-height);"></view><view class="black"><uni-nav-bar vue-id="692d9f4b-1" left-icon="left" title="调整字体大小" data-event-opts="{{[['^clickLeft',[['back']]]]}}" bind:clickLeft="__e" bind:__l="__l"></uni-nav-bar></view><view style="margin:3rem;font-size:1.05rem;"><text>最是那一低头的温柔，
+			
+			像一朵水莲花不胜凉风的娇羞，
+			
+			道一声珍重，道一声珍重，
+			
+			那一声珍重里有蜜甜的忧愁
+			
+			沙扬娜拉！</text></view><view class="m-bottom"><view class="uni-padding-wrap uni-common-mt" style="margin-top:50rpx;"><view class="titleBox"><view style="font-size:25rpx;">A</view><view style="font-size:30rpx;">标准</view><view style="font-size:35rpx;">A</view><view style="font-size:40rpx;">A</view></view><view><slider min="15" max="18 " value="{{fontValue}}" show-value="{{true}}" step="1" data-event-opts="{{[['change',[['sliderChange',['$event']]]]]}}" bindchange="__e"></slider></view></view></view></view>

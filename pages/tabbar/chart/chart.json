@@ -1,0 +1,366 @@
+{
+	"r_total": [
+	  {"value": 123,"name": "食品餐饮"},
+	  {"value": 287,"name": "购物消费"},
+	  {"value": 722,"name": "出行交通"},
+	  {"value": 127,"name": "休闲娱乐"},
+	  {"value": 167,"name": "服务缴费"},
+	  {"value": 822,"name": "学习教育"},
+	  {"value": 252,"name": "人情往来"},
+	  {"value": 271,"name": "健康医疗"},
+	  {"value": 110,"name": "金融理财"}
+	],
+	"y_total": [
+	  {"value": 1323,"name": "食品餐饮"},
+	  {"value": 3154,"name": "购物消费"},
+	  {"value": 1021,"name": "出行交通"},
+	  {"value": 1230,"name": "休闲娱乐"},
+	  {"value": 1002,"name": "服务缴费"},
+	  {"value": 3001,"name": "学习教育"},
+	  {"value": 3212,"name": "人情往来"},
+	  {"value": 2123,"name": "健康医疗"},
+	  {"value": 1302,"name": "金融理财"}
+	],
+	"n_total": [
+	  {"value": 5220,"name": "食品餐饮"},
+	  {"value": 3154,"name": "购物消费"},
+	  {"value": 4021,"name": "出行交通"},
+	  {"value": 4230,"name": "休闲娱乐"},
+	  {"value": 3002,"name": "服务缴费"},
+	  {"value": 3021,"name": "学习教育"},
+	  {"value": 5102,"name": "人情往来"},
+	  {"value": 3123,"name": "健康医疗"},
+	  {"value": 2302,"name": "金融理财"}
+	],
+	"z_total": [
+	  {"value": 123,"name": "食品餐饮"},
+	  {"value": 287,"name": "购物消费"},
+	  {"value": 722,"name": "出行交通"},
+	  {"value": 127,"name": "休闲娱乐"},
+	  {"value": 167,"name": "服务缴费"},
+	  {"value": 822,"name": "学习教育"},
+	  {"value": 252,"name": "人情往来"},
+	  {"value": 271,"name": "健康医疗"},
+	  {"value": 110,"name": "金融理财"}
+	],
+	"recent_x":["12.10", "12.11", "12.12", "12.13", "12.14", "12.15", "12.16"],
+	"recent_y":[135, 238, 125, 137, 214, 220,245],
+	"recent_y_income":[212, 231, 201, 100, 214, 236,211],
+	"zdy_x":["12.10", "12.11", "12.12", "12.13", "12.14", "12.15", "12.16"],
+	"zdy_y":[135, 238, 125, 137, 214, 220,245],
+	"zdy_y_income":[212, 231, 201, 235, 214, 236,211],
+	"month_x":["12.01", "12.02", "12.03","12.04", "12.05", "12.06", "12.07",
+	"12.08", "12.09","12.10", "12.11", "12.12", "12.13", "12.14", "12.15", "12.16"],
+	"month_y":[232,124,342, 213, 191, 235, 114, 336,321,212, 321, 200, 353, 152, 243,161],
+	"month_y_income":[202,201,202, 213, 231, 231, 214, 236,221,212, 221, 212, 351, 102, 236,211],
+	"year_x":["1","2","3","4","5","6","7","8","9","10","11","12"],
+	"year_y":[1244,2311,3242,1323,4322,4321,3213,2411,2311,3452,1213,3122],
+	"year_y_income":[2121,2311,2242,2323,2322,2321,2213,2411,2311,2092,2213,2122],
+	"xm":{
+			"data_first":"1021",
+			"data_second":"2389.9",
+			"data_third":"2837.9",
+			"data_fourth":"9832.8"
+	},
+	"xm_d":{
+			"data_first":"1021",
+			"data_second":"2389.9",
+			"data_third":"2837.9",
+			"data_fourth":"9832.8"
+	},
+	"xm_y":{
+			"data_first":"3478",
+			"data_second":"32874",
+			"data_third":"209",
+			"data_fourth":"237.1"
+	},
+	"xm_n":{
+			"data_first":"15406",
+			"data_second":"15356.9",
+			"data_third":"123",
+			"data_fourth":"29.1"
+	},
+	"xm_z":{
+			"data_first":"1234",
+			"data_second":"6485",
+			"data_third":"3022.1",
+			"data_fourth":"12"
+	},
+	"recent_detail":[
+		{"name":"中式餐食","value":60},
+		{"name":"西式餐食","value":73},
+		{"name":"日韩料理","value":87},
+		{"name":"饮料烟酒","value":200},
+		{"name":"水果零食","value":121},
+		{"name":"柴米油盐","value":601},
+		{"name":"生鲜食品","value":67},
+		
+		{"name":"日用家居","value":60},
+		{"name":"个护美妆","value":22},
+		{"name":"数码电器","value":145},
+		{"name":"虚拟充值","value":210},
+		{"name":"服饰衣帽","value":612},
+		{"name":"母婴玩具","value":212},
+		{"name":"宠物用品","value":40},
+		{"name":"办公文具","value":171},
+		
+		{"name":"专车打的","value":100},
+		{"name":"公共交通","value":51},
+		{"name":"动车高铁","value":59},
+		{"name":"飞机出行","value":60},
+		{"name":"停车过路","value":73},
+		{"name":"车辆加油","value":87},
+		{"name":"保养维修","value":200},
+		
+		{"name":"旅游度假","value":121},
+		{"name":"电影演出","value":601},
+		{"name":"运动健身","value":67},
+		{"name":"美容美发","value":60},
+		{"name":"洗浴按摩","value":22},
+		{"name":"聚会玩乐","value":145},
+		
+		{"name":"话费宽带","value":210},
+		{"name":"水电燃气","value":612},
+		{"name":"房租还贷","value":212},
+		{"name":"物业车位","value":40},
+		{"name":"家政清洁","value":171},
+		{"name":"快递跑腿","value":100},
+		{"name":"各类税费","value":51},
+		
+		{"name":"学费支出","value":59},
+		{"name":"书报杂志","value":121},
+		{"name":"培训考试","value":601},
+		
+		{"name":"礼物红包","value":67},
+		{"name":"请客做东","value":60},
+		
+		{"name":"医院诊疗","value":22},
+		{"name":"药品制剂","value":145},
+		{"name":"保健器具","value":210},
+		
+		{"name":"理财投资","value":612},
+		{"name":"金融保险","value":212}
+	],
+	"month_detail":[
+		{"name":"中式餐食","value":60},
+		{"name":"西式餐食","value":73},
+		{"name":"日韩料理","value":87},
+		{"name":"饮料烟酒","value":200},
+		{"name":"水果零食","value":121},
+		{"name":"柴米油盐","value":601},
+		{"name":"生鲜食品","value":67},
+		
+		{"name":"日用家居","value":60},
+		{"name":"个护美妆","value":22},
+		{"name":"数码电器","value":145},
+		{"name":"虚拟充值","value":210},
+		{"name":"服饰衣帽","value":612},
+		{"name":"母婴玩具","value":212},
+		{"name":"宠物用品","value":40},
+		{"name":"办公文具","value":171},
+		
+		{"name":"专车打的","value":100},
+		{"name":"公共交通","value":51},
+		{"name":"动车高铁","value":59},
+		{"name":"飞机出行","value":60},
+		{"name":"停车过路","value":73},
+		{"name":"车辆加油","value":87},
+		{"name":"保养维修","value":200},
+		
+		{"name":"旅游度假","value":121},
+		{"name":"电影演出","value":601},
+		{"name":"运动健身","value":67},
+		{"name":"美容美发","value":60},
+		{"name":"洗浴按摩","value":22},
+		{"name":"聚会玩乐","value":145},
+		
+		{"name":"话费宽带","value":210},
+		{"name":"水电燃气","value":612},
+		{"name":"房租还贷","value":212},
+		{"name":"物业车位","value":40},
+		{"name":"家政清洁","value":171},
+		{"name":"快递跑腿","value":100},
+		{"name":"各类税费","value":51},
+		
+		{"name":"学费支出","value":59},
+		{"name":"书报杂志","value":121},
+		{"name":"培训考试","value":601},
+		
+		{"name":"礼物红包","value":67},
+		{"name":"请客做东","value":60},
+		
+		{"name":"医院诊疗","value":22},
+		{"name":"药品制剂","value":145},
+		{"name":"保健器具","value":210},
+		
+		{"name":"理财投资","value":612},
+		{"name":"金融保险","value":212}
+	],
+	"year_detail":[
+		{"name":"中式餐食","value":60},
+		{"name":"西式餐食","value":73},
+		{"name":"日韩料理","value":87},
+		{"name":"饮料烟酒","value":200},
+		{"name":"水果零食","value":121},
+		{"name":"柴米油盐","value":601},
+		{"name":"生鲜食品","value":67},
+		
+		{"name":"日用家居","value":60},
+		{"name":"个护美妆","value":22},
+		{"name":"数码电器","value":145},
+		{"name":"虚拟充值","value":210},
+		{"name":"服饰衣帽","value":612},
+		{"name":"母婴玩具","value":212},
+		{"name":"宠物用品","value":40},
+		{"name":"办公文具","value":171},
+		
+		{"name":"专车打的","value":100},
+		{"name":"公共交通","value":51},
+		{"name":"动车高铁","value":59},
+		{"name":"飞机出行","value":60},
+		{"name":"停车过路","value":73},
+		{"name":"车辆加油","value":87},
+		{"name":"保养维修","value":200},
+		
+		{"name":"旅游度假","value":121},
+		{"name":"电影演出","value":601},
+		{"name":"运动健身","value":67},
+		{"name":"美容美发","value":60},
+		{"name":"洗浴按摩","value":22},
+		{"name":"聚会玩乐","value":145},
+		
+		{"name":"话费宽带","value":210},
+		{"name":"水电燃气","value":612},
+		{"name":"房租还贷","value":212},
+		{"name":"物业车位","value":40},
+		{"name":"家政清洁","value":171},
+		{"name":"快递跑腿","value":100},
+		{"name":"各类税费","value":51},
+		
+		{"name":"学费支出","value":59},
+		{"name":"书报杂志","value":121},
+		{"name":"培训考试","value":601},
+		
+		{"name":"礼物红包","value":67},
+		{"name":"请客做东","value":60},
+		
+		{"name":"医院诊疗","value":22},
+		{"name":"药品制剂","value":145},
+		{"name":"保健器具","value":210},
+		
+		{"name":"理财投资","value":612},
+		{"name":"金融保险","value":212}
+	],
+	"zdy_detail":[
+		{"name":"中式餐食","value":60},
+		{"name":"西式餐食","value":73},
+		{"name":"日韩料理","value":87},
+		{"name":"饮料烟酒","value":200},
+		{"name":"水果零食","value":121},
+		{"name":"柴米油盐","value":601},
+		{"name":"生鲜食品","value":67},
+		
+		{"name":"日用家居","value":60},
+		{"name":"个护美妆","value":22},
+		{"name":"数码电器","value":145},
+		{"name":"虚拟充值","value":210},
+		{"name":"服饰衣帽","value":612},
+		{"name":"母婴玩具","value":212},
+		{"name":"宠物用品","value":40},
+		{"name":"办公文具","value":171},
+		
+		{"name":"专车打的","value":100},
+		{"name":"公共交通","value":51},
+		{"name":"动车高铁","value":59},
+		{"name":"飞机出行","value":60},
+		{"name":"停车过路","value":73},
+		{"name":"车辆加油","value":87},
+		{"name":"保养维修","value":200},
+		
+		{"name":"旅游度假","value":121},
+		{"name":"电影演出","value":601},
+		{"name":"运动健身","value":67},
+		{"name":"美容美发","value":60},
+		{"name":"洗浴按摩","value":22},
+		{"name":"聚会玩乐","value":145},
+		
+		{"name":"话费宽带","value":210},
+		{"name":"水电燃气","value":612},
+		{"name":"房租还贷","value":212},
+		{"name":"物业车位","value":40},
+		{"name":"家政清洁","value":171},
+		{"name":"快递跑腿","value":100},
+		{"name":"各类税费","value":51},
+		
+		{"name":"学费支出","value":59},
+		{"name":"书报杂志","value":121},
+		{"name":"培训考试","value":601},
+		
+		{"name":"礼物红包","value":67},
+		{"name":"请客做东","value":60},
+		
+		{"name":"医院诊疗","value":22},
+		{"name":"药品制剂","value":145},
+		{"name":"保健器具","value":210},
+		
+		{"name":"理财投资","value":612},
+		{"name":"金融保险","value":212}
+	],
+	"day_income":[
+		{"name":"工作兼职","value":"1032"},
+		{"name":"金融投入","value":"688"},
+		{"name":"其他收入","value":"688"}
+	],
+	"day_income_detail":[
+		{"name":"工资奖金","value":"132"},
+		{"name":"兼职外快","value":"150"},
+		{"name":"理财收益","value":"150"},
+		{"name":"保险理赔","value":"300"},
+		{"name":"二手闲置","value":"300"},
+		{"name":"报销补贴","value":"150"},
+		{"name":"红包礼金","value":"150"}
+	],
+	"month_income":[
+		{"name":"工作兼职","value":"1032"},
+		{"name":"金融投入","value":"688"},
+		{"name":"其他收入","value":"688"}
+	],
+	"month_income_detail":[
+		{"name":"工资奖金","value":"132"},
+		{"name":"兼职外快","value":"150"},
+		{"name":"理财收益","value":"150"},
+		{"name":"保险理赔","value":"300"},
+		{"name":"二手闲置","value":"300"},
+		{"name":"报销补贴","value":"150"},
+		{"name":"红包礼金","value":"150"}
+	],
+	"year_income":[
+		{"name":"工作兼职","value":"1032"},
+		{"name":"金融投入","value":"688"},
+		{"name":"其他收入","value":"688"}
+	],
+	"year_income_detail":[
+		{"name":"工资奖金","value":"132"},
+		{"name":"兼职外快","value":"150"},
+		{"name":"理财收益","value":"150"},
+		{"name":"保险理赔","value":"300"},
+		{"name":"二手闲置","value":"300"},
+		{"name":"报销补贴","value":"150"},
+		{"name":"红包礼金","value":"150"}
+	],
+	"zdy_income_detail":[
+		{"name":"工资奖金","value":"132"},
+		{"name":"兼职外快","value":"150"},
+		{"name":"理财收益","value":"150"},
+		{"name":"保险理赔","value":"300"},
+		{"name":"二手闲置","value":"300"},
+		{"name":"报销补贴","value":"150"},
+		{"name":"红包礼金","value":"150"}
+	]
+,"zdy_income":[
+		{"name":"工作兼职","value":"1032"},
+		{"name":"金融投入","value":"688"},
+		{"name":"其他收入","value":"688"}
+	]
+	
+}

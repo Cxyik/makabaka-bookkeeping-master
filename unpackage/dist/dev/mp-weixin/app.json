@@ -1,0 +1,81 @@
+{
+  "pages": [
+    "pages/tabbar/account_book/account_book",
+    "pages/tabbar/budget/budget",
+    "pages/Guide/Guide",
+    "pages/tabbar/chart/chart",
+    "pages/tabbar/bill/bill",
+    "pages/tabbar/mine/mine",
+    "pages/Login/Login",
+    "pages/tabbar-detial/tabbar-detial-import/tabbar-detial-import",
+    "pages/tabbar-detial/tabbar-detial-photo/tabbar-detial-photo",
+    "pages/tabbar-detial/tabbar-detial-writeBill/tabbar-detial-writeBill",
+    "pages/tabbar/mine/achivement/achivement",
+    "pages/tabbar/mine/integral/integral",
+    "pages/tabbar/mine/shop/shop",
+    "pages/tabbar-detial/tabbar-detial-writeBill/tabbar-detial-writeBill",
+    "pages/tabbar/mine/account_book/account_book",
+    "pages/tabbar/bill/bill-month/bill-month",
+    "pages/tabbar/mine/remind/remind",
+    "pages/tabbar/mine/information/information",
+    "pages/tabbar/mine/set_font/set_font",
+    "pages/tabbar/mine/devotion/devotion",
+    "pages/tabbar/mine/help_word/help_word",
+    "pages/tabbar/mine/feedback/feedback",
+    "pages/tabbar/mine/about/about"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#F4F4F4",
+    "backgroundColor": "#F4F4F4"
+  },
+  "tabBar": {
+    "borderStyle": "white",
+    "backgroundColor": "#FFF",
+    "color": "#666666",
+    "selectedColor": "#3579E8",
+    "iconWidth": "20px",
+    "list": [
+      {
+        "pagePath": "pages/tabbar/account_book/account_book",
+        "iconPath": "/static/img/tabbar/account.png",
+        "selectedIconPath": "/static/img/tabbar/accountacitve.png",
+        "text": "账本"
+      },
+      {
+        "pagePath": "pages/tabbar/budget/budget",
+        "iconPath": "/static/img/tabbar/budge.png",
+        "selectedIconPath": "/static/img/tabbar/budgetactive.png",
+        "text": "预算"
+      },
+      {
+        "pagePath": "pages/tabbar/chart/chart",
+        "iconPath": "/static/img/tabbar/chart.png",
+        "selectedIconPath": "/static/img/tabbar/chartactivek.png",
+        "text": "统计"
+      },
+      {
+        "pagePath": "pages/tabbar/bill/bill",
+        "iconPath": "/static/img/tabbar/bill.png",
+        "selectedIconPath": "/static/img/tabbar/billactive.png",
+        "text": "账单"
+      },
+      {
+        "pagePath": "pages/tabbar/mine/mine",
+        "iconPath": "/static/img/tabbar/mine.png",
+        "selectedIconPath": "/static/img/tabbar/mineactive.png",
+        "text": "我"
+      }
+    ]
+  },
+  "preloadRule": {
+    "pages/tabbar/mine/mine": {
+      "network": "all",
+      "packages": [
+        "pagesOther"
+      ]
+    }
+  },
+  "usingComponents": {}
+}

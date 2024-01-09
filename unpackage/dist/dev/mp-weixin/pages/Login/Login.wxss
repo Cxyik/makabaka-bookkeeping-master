@@ -1,0 +1,64 @@
+page {
+  background-color: #F4F4F4;
+}
+.m-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.forgetPwd {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 3rem;
+}
+.isShow {
+  display: none;
+}
+.m-index {
+  width: 100%;
+  display: flex;
+  margin-top: 3rem;
+  justify-content: center;
+}
+.m-center {
+  width: 90%;
+  background-color: white;
+  padding: 1rem 1rem;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 0.8rem;
+  margin-top: 2rem;
+}
+.m-center image {
+  height: 6rem;
+  width: 6rem;
+  margin-top: -4rem;
+}
+.m-center view {
+  padding-top: 0.5em;
+  width: 100%;
+}
+.m-center .m-cloum {
+  margin-top: 0.5rem;
+}
+.m-center .m-icon {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5rem;
+}
+.m-center .m-icon view {
+  display: flex;
+  justify-content: space-around;
+}
+.m-center input {
+  padding: 0.5rem;
+  border-radius: 0.3rem;
+  background-color: #F4F4F4;
+}
+.custom-style {
+  margin-top: 1rem;
+}
+

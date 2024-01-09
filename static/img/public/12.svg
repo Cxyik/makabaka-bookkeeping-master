@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39" height="39" viewBox="0 0 39 39">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.157" y1="0.185" x2="0.806" y2="0.86" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e8ad68"/>
+      <stop offset="1" stop-color="#f1c46f"/>
+    </linearGradient>
+  </defs>
+  <g id="组_235" data-name="组 235" transform="translate(-311 -610)">
+    <circle id="椭圆_18" data-name="椭圆 18" cx="19.5" cy="19.5" r="19.5" transform="translate(311 610)" fill="url(#linear-gradient)"/>
+    <text id="记账" transform="translate(320 634)" fill="#f4f4f4" font-size="11" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI"><tspan x="0" y="0">记账</tspan></text>
+  </g>
+</svg>

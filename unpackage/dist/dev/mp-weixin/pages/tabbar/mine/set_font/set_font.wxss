@@ -1,0 +1,15 @@
+
+.titleBox {
+	width: 80%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 30rpx 0;
+	margin-left: 5%;
+}
+.m-bottom{
+	position: fixed;
+	bottom: 10%;
+	width: 100%;
+}
+

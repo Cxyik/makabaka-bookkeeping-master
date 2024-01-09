@@ -1,0 +1,106 @@
+
+.first_content{
+		padding-top: 6rem;
+		margin: 0 1rem;
+		background-color: white;
+		/* width: 100%; */
+		height: 90rem;
+		text-align: center;
+		border-radius: 2rem;
+}
+.logo image{
+		width: 8rem;
+		height: 8rem;
+		padding-right: 0.5rem;
+}
+.name{
+		color: rgb(100, 100, 100)-;
+		font-weight: 600;
+}
+.question_1{
+		padding: 1rem;
+		text-align: left;
+}
+.advice_p,
+	.select_p,
+	.data_p,
+	.way_p{
+		width: 100%;
+		/* background-color: pink; */
+		text-align: center;
+		margin-top: 0.3rem;
+}
+.way_p image{
+		width: 100%;
+		height: 3.5rem;
+}
+.data_p image{
+		width: 40%;
+		height: 15rem;
+		padding: 0.5rem 0.5rem;
+}
+.select_p image{
+		width: 40%;
+		height: 9rem;
+		padding: 0.5rem 0.5rem;
+}
+.advice_p image{
+		width: 80%;
+		height: 8rem;
+		padding: 0.5rem 0.5rem;
+}
+.title{
+		width: 50%;
+		height: 100%;
+		line-height: 3rem;
+		box-sizing: border-box;
+		padding-left: 2rem;
+}
+	
+	/*  */
+.content{
+		/* position: fixed; */
+		width: 100%;
+		height: 100rem;
+		background-color: rgb(244, 244, 244);
+		font-size: 16px;
+}
+	
+	/* first */
+.total_title{
+		color:rgb(100, 100, 100);
+		padding: 4rem 0.3rem 0;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		position: fixed;
+		width: 100%;
+		height: 3rem;
+		background-color: rgb(244, 244, 244);
+		z-index: 11;
+}
+.back{
+		display: flex;
+		align-items: center;
+		color: dimgray;
+		flex: 1;
+}
+.back image{
+		width: 25px;
+		height: 25px;
+}
+.ach_title{
+		flex: 2;
+		font-weight: 600;
+		text-align: center;
+		padding-right: 10px;
+}
+.wei{
+		flex: 1;
+		text-align: center;
+}
+.delete_it{
+		position: absolute;
+		right: 0;
+}
+
